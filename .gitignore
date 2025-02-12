@@ -1,0 +1,22 @@
+# Dependencies
+/vendor/
+composer.lock
+
+# Environment files
+.env
+.env.backup
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite database
+*.sqlite
+*.sqlite3
+bot_data.sqlite 
